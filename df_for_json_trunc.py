@@ -1,4 +1,5 @@
 #truncate the JSON Data
+#need to add as a function
 import pandas as pd
 import os
 
